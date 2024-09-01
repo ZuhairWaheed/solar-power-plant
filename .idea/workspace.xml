@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2585a909-33f4-4933-be51-ae26f2edf04d" name="Changes" comment="formatting fix" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2i3Zk4VtKVywOo7mLiKVSZClxrm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TF_FMT&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/zuhairwaheed/IdeaProjects/06182024-muhammad-zuhair-waheed&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/com/assessment/solar/utitlity" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.assessment.solar.exception" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.application">
+    <configuration name="application" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.assessment.solar.SolarPowerPlantApplicationKt" />
+      <module name="06182024-muhammad-zuhair-waheed" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowerPlantServiceTest$GetNetworkStateWithOutputTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="06182024-muhammad-zuhair-waheed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assessment.solar.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.assessment.solar.service.PowerPlantServiceTest" />
+      <option name="MAIN_CLASS_NAME" value="com.assessment.solar.service.PowerPlantServiceTest$GetNetworkStateWithOutputTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowerPlantServiceTest$GetTotalOutputTest.calculateTotalOutputForTDays method throws exception when findAll fails" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="06182024-muhammad-zuhair-waheed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assessment.solar.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.assessment.solar.service.PowerPlantServiceTest" />
+      <option name="MAIN_CLASS_NAME" value="com.assessment.solar.service.PowerPlantServiceTest$GetTotalOutputTest" />
+      <option name="METHOD_NAME" value="calculateTotalOutputForTDays method throws exception when findAll fails" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowerPlantServiceTest$LoadNetworkTest.load network method throws exception when saveAll fails" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="06182024-muhammad-zuhair-waheed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assessment.solar.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.assessment.solar.service.PowerPlantServiceTest" />
+      <option name="MAIN_CLASS_NAME" value="com.assessment.solar.service.PowerPlantServiceTest$LoadNetworkTest" />
+      <option name="METHOD_NAME" value="load network method throws exception when saveAll fails" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowerPlantServiceTest$LoadNetworkTest.load network method throws exception" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="06182024-muhammad-zuhair-waheed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assessment.solar.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.assessment.solar.service.PowerPlantServiceTest" />
+      <option name="MAIN_CLASS_NAME" value="com.assessment.solar.service.PowerPlantServiceTest$LoadNetworkTest" />
+      <option name="METHOD_NAME" value="load network method throws exception" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowerPlantServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="06182024-muhammad-zuhair-waheed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assessment.solar.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.assessment.solar.service" />
+      <option name="MAIN_CLASS_NAME" value="com.assessment.solar.service.PowerPlantServiceTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.application" />
+      <item itemvalue="JUnit.PowerPlantServiceTest" />
+      <item itemvalue="JUnit.PowerPlantServiceTest$GetNetworkStateWithOutputTest" />
+      <item itemvalue="JUnit.PowerPlantServiceTest$GetTotalOutputTest.calculateTotalOutputForTDays method throws exception when findAll fails" />
+      <item itemvalue="JUnit.PowerPlantServiceTest$LoadNetworkTest.load network method throws exception" />
+      <item itemvalue="JUnit.PowerPlantServiceTest$LoadNetworkTest.load network method throws exception when saveAll fails" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PowerPlantServiceTest$LoadNetworkTest.load network method throws exception when saveAll fails" />
+        <item itemvalue="JUnit.PowerPlantServiceTest$LoadNetworkTest.load network method throws exception" />
+        <item itemvalue="JUnit.PowerPlantServiceTest$GetTotalOutputTest.calculateTotalOutputForTDays method throws exception when findAll fails" />
+        <item itemvalue="JUnit.PowerPlantServiceTest$GetNetworkStateWithOutputTest" />
+        <item itemvalue="JUnit.PowerPlantServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2585a909-33f4-4933-be51-ae26f2edf04d" name="Changes" comment="" />
+      <created>1718721361025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718721361025</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Created project structure, added dependencies and test endpoint">
+      <created>1719104848578</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719104848578</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Implemented FAST-1 (Added model, repository, controller services)">
+      <created>1719231274655</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719231274655</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Implemented unit tests for FAST-1 and minor refactoring">
+      <created>1719331606480</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719331606480</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Implemented FAST-2 (Added controller and service methods)&#10;minor refactoring in FAST-1">
+      <created>1719331938558</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719331938558</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added controller and service unit tests for FAST-2 endpoint">
+      <created>1719333731814</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719333731814</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Implemented FAST-3 (Added controller and service methods)">
+      <created>1719333770340</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719333770340</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added controller and service unit tests for FAST-3">
+      <created>1719339739343</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719339739343</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Implemented error handling along with the unit tests">
+      <created>1719343412747</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719343412747</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added function and explanation comments">
+      <created>1719348682607</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1719348682607</updated>
+    </task>
+    <task id="LOCAL-00010" summary="removed unused imports">
+      <created>1719349416621</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1719349416621</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added comments in pom and updated config">
+      <created>1719350468759</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1719350468759</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added ddl and dml scripts and updated README, version bump">
+      <created>1719353953690</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1719353953690</updated>
+    </task>
+    <task id="LOCAL-00013" summary="formatting fix">
+      <created>1719354315977</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1719354315977</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created project structure, added dependencies and test endpoint" />
+    <MESSAGE value="Implemented FAST-1 (Added model, repository, controller services)" />
+    <MESSAGE value="Implemented unit tests for FAST-1 and minor refactoring" />
+    <MESSAGE value="Implemented FAST-2 (Added controller and service methods)&#10;minor refactoring in FAST-1" />
+    <MESSAGE value="Added controller and service unit tests for FAST-2 endpoint" />
+    <MESSAGE value="Implemented FAST-3 (Added controller and service methods)" />
+    <MESSAGE value="Added controller and service unit tests for FAST-3" />
+    <MESSAGE value="Implemented error handling along with the unit tests" />
+    <MESSAGE value="Added function and explanation comments" />
+    <MESSAGE value="removed unused imports" />
+    <MESSAGE value="Added comments in pom and updated config" />
+    <MESSAGE value="Added ddl and dml scripts and updated README, version bump" />
+    <MESSAGE value="formatting fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="formatting fix" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/com/assessment/solar/controller/PowerPlantController.kt</url>
+          <line>29</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/com/assessment/solar/controller/PowerPlantController.kt</url>
+          <line>36</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/com/assessment/solar/controller/PowerPlantController.kt</url>
+          <line>30</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
